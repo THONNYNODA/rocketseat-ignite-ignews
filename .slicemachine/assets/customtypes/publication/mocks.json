@@ -1,0 +1,21 @@
+{
+  "id": "5a3d2862-5f10-4f81-be1d-7da5e13e1b87",
+  "uid": "veniam-iste-numquam",
+  "type": "publication",
+  "data": {
+    "Title": [
+      {
+        "type": "heading1",
+        "text": "Grow transparent users",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Laborum Lorem incididunt adipisicing tempor enim nulla reprehenderit adipisicing irure minim incididunt aliquip. Ea pariatur commodo cupidatat qui.",
+        "spans": []
+      }
+    ]
+  }
+}

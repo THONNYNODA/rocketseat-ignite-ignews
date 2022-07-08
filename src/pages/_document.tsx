@@ -10,7 +10,7 @@ export default class MyyDocument extends Document {
             rel="stylesheet"
           />
   <link rel="shortcut icon" href="/favicon.png" type="image/png" />
-          <title>Ignews</title>
+  <title>Ignews</title>
         </Head>
         <body>
           <Main />
